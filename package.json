@@ -75,7 +75,7 @@
     "compression": "^1.8.1",
     "cors": "^2.8.5",
     "express": "^4.22.1",
-    "fast-xml-parser": "^5.5.7",
+    "fast-xml-parser": "^5.7.0",
     "fuse.js": "^6.6.2",
     "he": "^1.2.0",
     "http-proxy-middleware": "^2.0.9",
