@@ -78,7 +78,7 @@
     "fast-xml-parser": "^5.7.0",
     "fuse.js": "^6.6.2",
     "he": "^1.2.0",
-    "http-proxy-middleware": "^2.0.9",
+    "http-proxy-middleware": "^3.0.7",
     "memory-cache": "^0.2.0",
     "moment": "^2.29.4",
     "moment-locales-webpack-plugin": "^1.2.0",
